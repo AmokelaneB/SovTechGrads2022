@@ -37,7 +37,7 @@ const home = () => {
               various events organised for the company personel, I witnessed an
               inviting work environment, Collaborative software developers, and
               A diverse group of people. This is an environment I know I can
-              thrive in as software developer.{' '}
+              thrive in as a software developer.{' '}
             </p>
           </div>
           <div className='job job-2'>
